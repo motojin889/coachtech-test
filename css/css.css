@@ -1,0 +1,59 @@
+body{
+  width: 100vw;
+}
+
+header{
+  height: 120px;
+}
+
+h2{
+color:darkblue;
+display: inline-block;
+font-size: 20px;
+margin: 10px 15px;
+}
+
+.nav{
+list-style-type: none;
+}
+
+ul{
+  display: inline;
+  text-align: right;
+  float: right;
+  margin: 10px 15px;
+}
+
+.nav li{
+  font-size: 13px;
+  padding: 0 10px;
+  display: inline;
+}
+
+.nav li a{
+  text-decoration: none;
+  color: darkblue;
+  font-weight: bold;
+}
+
+h1{
+font-weight: 400;
+font-size: 50px;
+margin-top: -120px;
+}
+
+main{
+  height: 400px;
+}
+
+img{
+width: 50%;
+position: relative;
+left: 50%;
+}
+
+.bule-line{
+background: darkblue;
+width: 75vw;
+height: 35%;
+}
